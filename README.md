@@ -6,20 +6,18 @@
 
 ---
 ### 🦉 A little more about me...  
-const AbhijeetMadake = {
-    pronouns: "He/Him",
-    skills: ["HTML", "CSS", "JavaScript", "C", "DSA", "Java", "PostgreSQL"],
-    education: {
-        Masters: "M.Sc. CA (Pursuing) - MES Garware, Pune (2024)",
-        Bachelors: "B.Sc. CS - SPPU Pune (2024)"
+```js
+const [YourName] = {
+    pronouns: "He" | "Him",
+    code: ["HTML", "CSS", "JavaScript", "Java", "MySQL"],
+    askMeAbout: ["Web Dev", "Tech", "DSA"],
+    technologies: {
+        frontEnd: {
+            Html, CSS, JS: ["Bootstrap"]
+        },
+        backEnd: {
+            Java
+        },
     },
-    projects: {
-        quizApp: "Static quiz platform with multiple categories & score tracking."
-    },
-    interests: ["Web Dev", "Problem Solving", "Software Development"],
-    contact: {
-        LinkedIn: "[Your LinkedIn URL](https://www.linkedin.com/in/abhijeet-madake-312b002a6/)",
-        GitHub: "[Your GitHub URL](https://github.com/abhijeetmadake)",
-        Portfolio: " https://abhijeetmadake.github.io/Portfolio/"
-    }
+    aboutMyself: "I am pursuing a Master's in Computer Applications (MCA)...",
 };
