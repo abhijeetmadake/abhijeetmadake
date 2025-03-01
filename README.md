@@ -7,18 +7,25 @@
 ---
 
 ### 🦉 A little more about me...  
-```js
-const [YourName] = {
+const AbhijeetMadake = {
     pronouns: "He" | "Him",
-    code: ["HTML", "CSS", "JavaScript", "Java", "MySQL"],
-    askMeAbout: ["Web Dev", "Tech", "DSA"],
-    technologies: {
-        frontEnd: {
-            Html, CSS, JS: ["Bootstrap"]
-        },
-        backEnd: {
-            Java, NodeJS, Express
-        },
+    skills: ["HTML", "CSS", "JavaScript", "C", "DSA (In C)", "Core Java", "Advanced Java", "OOPs Concepts", "PostgreSQL"],
+    education: {
+        Masters: "M.Sc. Computer Applications (Pursuing) - MES Abasaheb Garware College, Pune (2024)",
+        Bachelors: "B.Sc. Computer Science - SPPU University, Pune (2024)",
+        HSC: "Abasaheb Kakade Jr. College, Shevgaon (2021) - 83.17%",
+        SSC: "Residential High School & Junior College, Shevgaon (2019) - 69.60%"
     },
-    aboutMyself: "I am pursuing a Master's in Computer Applications (MCA)...",
+    projects: {
+        quizApplication: {
+            description: "A dynamic quiz app featuring multiple categories like technical, games, and sports. Users can attempt quizzes, earn scores, and explore answers.",
+            technologiesUsed: ["Java", "PostgreSQL", "HTML", "CSS", "JavaScript"]
+        }
+    },
+    interests: ["Web Development", "Problem Solving", "Data Structures", "Software Development"],
+    contact: {
+        linkedin: "[Your LinkedIn URL](https://www.linkedin.com/in/abhijeet-madake-312b002a6/)",
+        github: "[Your GitHub URL](https://github.com/abhijeetmadake)",
+        portfolio: "https://abhijeetmadake.github.io/Portfolio/"
+    }
 };
