@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello, There! 👋  
 
-<!--
-**abhijeetmadake/abhijeetmadake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Abhijeet!! Like to Connect with Me?  
+- 🔗 Sharing updates on [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/abhijeet-madake-312b002a6/)) 😇  
+- 🎯 Check out my [Portfolio]( https://abhijeetmadake.github.io/Portfolio/)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🦉 A little more about me...  
+```js
+const [YourName] = {
+    pronouns: "He" | "Him",
+    code: ["HTML", "CSS", "JavaScript", "Java", "MySQL"],
+    askMeAbout: ["Web Dev", "Tech", "DSA"],
+    technologies: {
+        frontEnd: {
+            Html, CSS, JS: ["Bootstrap"]
+        },
+        backEnd: {
+            Java, NodeJS, Express
+        },
+    },
+    aboutMyself: "I am pursuing a Master's in Computer Applications (MCA)...",
+};
