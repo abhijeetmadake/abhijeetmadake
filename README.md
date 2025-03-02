@@ -7,7 +7,7 @@
 ---
 ### 🦉 A little more about me...  
 ```js
-const [YourName] = {
+const [ABHI] = {
     pronouns: "He" | "Him",
     code: ["HTML", "CSS", "JavaScript", "Java", "MySQL"],
     askMeAbout: ["Web Dev", "Tech", "DSA"],
